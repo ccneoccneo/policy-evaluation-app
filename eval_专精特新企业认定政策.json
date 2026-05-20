@@ -1,0 +1,12 @@
+{
+  "policy_name": "专精特新企业认定政策",
+  "did_results": {
+    "did_coefficient": -0.011,
+    "p_value": 0.9529,
+    "significant": false,
+    "r_squared": 0.0352,
+    "n_obs": 470,
+    "model_summary": "<bound method RegressionResults.summary of <statsmodels.regression.linear_model.OLSResults object at 0x000001874EB38050>>"
+  },
+  "llm_interpretation": ""
+}

@@ -1,0 +1,25 @@
+{
+  "policy_name": "低碳试点政策",
+  "policy_year": 2010,
+  "naive_did": {
+    "coefficient": -0.0614,
+    "p_value": 0.5878,
+    "significant": false,
+    "n_obs": 6589
+  },
+  "psm_did": {
+    "coefficient": -0.124,
+    "p_value": 0.1737,
+    "significant": false,
+    "n_obs": 9937
+  },
+  "dml": {
+    "coefficient": 0.0101,
+    "std_error": 0.0044,
+    "p_value": 0.0218,
+    "significant": true,
+    "ci_lower": 0.0015,
+    "ci_upper": 0.0187
+  },
+  "conclusion": "普通DID估计值为-0.061（不显著），PSM-DID估计值为-0.124（不显著），DML估计值为0.010（显著）。 DML捕捉到了传统方法未能发现的因果效应，体现了机器学习优势。"
+}

@@ -1,0 +1,15 @@
+{
+  "method": "DML",
+  "dml_results": {
+    "ate_coefficient": 0.1024,
+    "std_error": 0.0016,
+    "p_value": 0.0,
+    "significant": true,
+    "ci_lower": 0.0993,
+    "ci_upper": 0.1055,
+    "method": "Double Machine Learning (DML)"
+  },
+  "sample_size": 19810,
+  "n_features": 14,
+  "llm_interpretation": ""
+}

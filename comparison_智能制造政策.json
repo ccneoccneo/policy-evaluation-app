@@ -1,0 +1,25 @@
+{
+  "policy_name": "智能制造政策",
+  "policy_year": 2015,
+  "naive_did": {
+    "coefficient": 0.27,
+    "p_value": 0.0,
+    "significant": true,
+    "n_obs": 19810
+  },
+  "psm_did": {
+    "coefficient": 0.2253,
+    "p_value": 0.0,
+    "significant": true,
+    "n_obs": 1042
+  },
+  "dml": {
+    "coefficient": 0.1024,
+    "std_error": 0.0016,
+    "p_value": 0.0,
+    "significant": true,
+    "ci_lower": 0.0993,
+    "ci_upper": 0.1055
+  },
+  "conclusion": "普通DID估计值为0.270（显著），PSM-DID估计值为0.225（显著），DML估计值为0.102（显著）。 DML结果显著且控制了高维协变量，结论更可信。"
+}

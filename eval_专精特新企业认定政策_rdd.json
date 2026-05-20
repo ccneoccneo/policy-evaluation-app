@@ -1,0 +1,12 @@
+{
+  "policy_name": "专精特新企业认定政策",
+  "method": "RDD",
+  "rdd_results": {
+    "rdd_coefficient": 16793826.8112,
+    "p_value": 0.0,
+    "significant": true,
+    "r_squared": 0.7808,
+    "n_obs": 500
+  },
+  "llm_interpretation": "（此处为LLM生成的评估解读。接入真实LLM后，将自动总结政策效果并提出具体建议。）"
+}

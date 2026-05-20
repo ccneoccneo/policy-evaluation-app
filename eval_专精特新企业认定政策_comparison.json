@@ -1,0 +1,14 @@
+{
+  "policy_name": "专精特新企业认定政策",
+  "did_ate": 0.1519,
+  "did_pvalue": 0.0074,
+  "did_significant": true,
+  "dml_ate": -9751870.6354,
+  "dml_pvalue": 0.1595,
+  "dml_significant": false,
+  "dml_ci": [
+    -23317590.1567,
+    3813848.8859
+  ],
+  "conclusion": "DID显著但DML不显著，可能存在遗漏变量偏误，DML结果更可信。"
+}
